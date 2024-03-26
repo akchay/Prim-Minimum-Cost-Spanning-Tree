@@ -1,4 +1,7 @@
-Min_Spanning_Tree--Prim-s-Algorithm-
-====================================
 
-Implemented Prim’s Minimum Cost Spanning Tree algorithm, by using arrays (simple scheme), as well as by using Fibonacci heap (f-heap scheme), and recorded the relative performance of the two schemes for thousand of nodes with different edge densities.
+Implementation of Prim’s Minimum Cost Spanning Tree algorithm:
+
+- by leveraging Arrays (simple scheme)
+- by leveraging Fibonacci Heap (f-heap scheme)
+  
+Recorded the relative performance of the two schemes for thousands of node with different edge densities.
